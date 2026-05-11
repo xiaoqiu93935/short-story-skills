@@ -14,7 +14,7 @@ tags:
 author: 女娲蒸馏
 created: 2026-05-06
 agent_created: true
-version: "1.5"
+version: "2.0"
 source: "2026年4月14日批次（5篇新增）"
 ---
 
